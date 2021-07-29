@@ -3,7 +3,7 @@ let xBol = 300
 let yBol = 200
 let diam = 20
 let raio = diam /2
-//var da velocidade
+//var da velocidade..
 let velXbol = 6
 let velYbol = 6
 
